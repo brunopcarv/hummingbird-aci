@@ -1,3 +1,3 @@
 # hummingbird-aci
 
-AscTec Hummingbird quadrotor communicatin protocol via XBee.
+AscTec Hummingbird quadrotor communication protocol via XBee.
